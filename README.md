@@ -6,6 +6,6 @@ https://kent.dl.sourceforge.net/project/pyqt/PyQt4/PyQt-4.11.4/PyQt4-4.11.4-gpl-
 
 # Open PyQT 4
 C:\Python34\Lib\site-packages\PyQt4
-![Image alt attribute](python-Gui/987.PNG)
+![Image alt attribute](https://github.com/aminagrebi/python-Gui/blob/master/987.PNG)
 
 
