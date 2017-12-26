@@ -2,7 +2,8 @@
 Dec 26,  2017
 Recipe:  B04829_01_02
 @author: Amin Agrebi
-@academy: Massa El sham Training and development
+@academy: Massa ElSham Training and development
+'''
 #======================
 # imports
 #======================
